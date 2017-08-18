@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 65,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.1.6",
     "path": "file:///C:/Users/manlong/Desktop/after%20process/Website",
     "favicon": "@PROJECT_PATH@/assets/images/logo-of-scout-troop-128x128.png",
     "noImageResize": "",
@@ -59,6 +59,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-6",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -66,12 +71,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -110,23 +110,23 @@
           },
           "_anchor": "header4-7",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-homecover-2000x1500.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-homecover-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "",
           "text": "",
@@ -147,13 +147,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -182,8 +182,11 @@
           },
           "_params": {
             "autoplay": true,
+            "fullScreen": true,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#ffffff",
             "slides": [
               {
                 "active": false,
@@ -231,10 +234,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#ffffff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider-17",
           "articleLayout": false
@@ -257,13 +257,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
-            "bgColor": "#ffffff",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "Follow &amp; Share Our Facebook Page",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
@@ -312,8 +312,11 @@
           },
           "_params": {
             "autoplay": true,
+            "fullScreen": true,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#41a85f",
             "slides": [
               {
                 "active": false,
@@ -367,10 +370,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#41a85f",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider-1o",
           "articleLayout": false
@@ -408,6 +408,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-e",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -415,12 +420,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -452,13 +452,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -480,13 +480,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "News / The Latest Updates",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
@@ -532,6 +532,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-c",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -539,12 +544,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -576,13 +576,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -606,27 +606,27 @@
           },
           "_anchor": "content4-1k",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": true,
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "Scout Leaders",
@@ -790,27 +790,27 @@
           },
           "_anchor": "features1-1m",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": true,
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "Scout Leaders",
@@ -989,6 +989,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-f",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -996,12 +1001,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1033,13 +1033,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#4c6972",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "2 Robinson Road, Mid-Levels, Hong Kong\nHong Kong",
               "placeId": "ChIJodcKg3oABDQRPijzXo6j5aU",
@@ -1068,17 +1068,17 @@
           },
           "_anchor": "form1-19",
           "_params": {
+            "showTitle": true,
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#4c6972",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Contact Form",
           "form": {
@@ -1125,13 +1125,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -1153,13 +1153,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#4c6972",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "News / The Latest Updates",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
@@ -1205,6 +1205,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-g",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -1212,12 +1217,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1249,13 +1249,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -1274,8 +1274,13 @@
             }
           },
           "_params": {
+            "fullWidth": true,
             "paddingTop": "2",
             "paddingBottom": "2",
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
             "images": [
               {
                 "caption": "Pioneering Day 2017",
@@ -1304,7 +1309,7 @@
               {
                 "caption": "Island Scout Trail Walk 2017",
                 "thumb": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x112536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x11250.jpg",
                 "active": false
               },
               {
@@ -1340,7 +1345,7 @@
               {
                 "caption": "PL Training Camp 2016",
                 "thumb": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x133237.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x13321.jpg",
                 "active": false
               },
               {
@@ -1400,15 +1405,10 @@
               {
                 "caption": "Park Orienteering 2016",
                 "thumb": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x1328-800x531.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x132838.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x13282.jpg",
                 "active": true
               }
-            ],
-            "showText": true,
-            "bgColor": "#4c6972",
-            "fullWidth": true,
-            "noGutter": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-10",
           "articleLayout": false
@@ -1431,13 +1431,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "Visit Our FB Page For More Photo Updates",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
@@ -1457,13 +1457,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "For Old Photo",
           "icons": "    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"http://www.99hkg.org/scout/Photo/past/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
@@ -1495,26 +1495,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1c",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "13",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1578,6 +1578,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-o",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -1585,12 +1590,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1622,13 +1622,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -1652,27 +1652,27 @@
           },
           "_anchor": "content4-1b",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "3",
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "Recent Chief Scout's Awards",
@@ -1839,6 +1839,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-d",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -1846,12 +1851,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1883,13 +1883,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -1911,26 +1911,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-1f",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "52",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1998,6 +1998,11 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1g",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#41a85f",
             "fontSize": "1.6",
             "fontName": {
@@ -2005,12 +2010,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -2042,13 +2042,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
         },
@@ -2221,20 +2221,20 @@
           ],
           "_anchor": "testimonials1-1j",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "count": "9",
+            "showTitle": true,
             "showName": true,
             "showBio": false,
+            "count": "9",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/50th-anniversary-logo-800x800.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#4c6972",
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#000000",
-            "showTitle": true
+            "overlayOpacity": "0.4"
           },
           "header": "Useful Information / Link"
         }
