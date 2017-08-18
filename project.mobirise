@@ -1304,7 +1304,7 @@
               {
                 "caption": "Island Scout Trail Walk 2017",
                 "thumb": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x112521.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x112524.jpg",
                 "active": false
               },
               {
@@ -1340,7 +1340,7 @@
               {
                 "caption": "PL Training Camp 2016",
                 "thumb": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x133222.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x133225.jpg",
                 "active": false
               },
               {
@@ -1400,7 +1400,7 @@
               {
                 "caption": "Park Orienteering 2016",
                 "thumb": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x1328-800x531.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x132823.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x132826.jpg",
                 "active": true
               }
             ],
