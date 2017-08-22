@@ -5,68 +5,6 @@
 
 
 
-#dropdown-menu-2btn-6 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-6 .navbar-brand a {
-  font-size: 24px;
-  font-family: 'Roboto Condensed', sans-serif;
-}
-#dropdown-menu-2btn-6 .nav .link,
-#dropdown-menu-2btn-6 .dropdown-item {
-  font-size: 1.4em;
-  color: #ffffff;
-  font-family: 'Roboto Condensed', sans-serif;
-}
-#dropdown-menu-2btn-6 .navbar,
-#dropdown-menu-2btn-6 .dropdown-menu {
-  background: #41a85f;
-}
-#dropdown-menu-2btn-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-6 .dropdown-menu a:hover,
-#dropdown-menu-2btn-6 .dropdown-menu a:focus {
-  background: #3b9957;
-}
-#dropdown-menu-2btn-6 .navbar-toggler {
-  color: #ffffff;
-}
-#header4-7 H1 {
-  font-size: 60px;
-  color: #1abc9c;
-  text-align: center;
-}
-#header4-7 I {
-  font-family: 'Titillium Web', sans-serif;
-  color: #1a7d37;
-  text-align: center;
-}
-#footer1-k P {
-  color: #ffffff;
-}
-#slider-17 H1 {
-  color: #ffffff;
-  font-family: 'Roboto Condensed', sans-serif;
-  text-align: left;
-  font-size: 48px;
-}
-#slider-17 I {
-  text-align: right;
-  color: #ffffff;
-}
-#slider-17 P {
-  text-align: right;
-  color: #ffffff;
-}
-#social-buttons2-s .mbr-header__text {
-  text-align: left;
-  color: #41a85f;
-  font-family: 'Roboto Condensed', sans-serif;
-}
-
-
-
-
-
 #slider-1o B {
   text-align: center;
 }
@@ -268,9 +206,6 @@
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
 }
-#social-buttons2-15 .mbr-header__text {
-  color: #ffffff;
-}
 
 
 #msg-box4-1c .mbr-header__text {
@@ -404,4 +339,66 @@
 }
 #testimonials1-1j .mbr-reviews__author-name {
   color: #ffffff;
+}
+
+
+
+
+
+#dropdown-menu-2btn-6 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-6 .navbar-brand a {
+  font-size: 24px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#dropdown-menu-2btn-6 .nav .link,
+#dropdown-menu-2btn-6 .dropdown-item {
+  font-size: 1.4em;
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#dropdown-menu-2btn-6 .navbar,
+#dropdown-menu-2btn-6 .dropdown-menu {
+  background: #41a85f;
+}
+#dropdown-menu-2btn-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-6 .dropdown-menu a:hover,
+#dropdown-menu-2btn-6 .dropdown-menu a:focus {
+  background: #3b9957;
+}
+#dropdown-menu-2btn-6 .navbar-toggler {
+  color: #ffffff;
+}
+#header4-7 H1 {
+  font-size: 60px;
+  color: #1abc9c;
+  text-align: center;
+}
+#header4-7 I {
+  font-family: 'Titillium Web', sans-serif;
+  color: #1a7d37;
+  text-align: center;
+}
+#footer1-k P {
+  color: #ffffff;
+}
+#slider-17 H1 {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: left;
+  font-size: 48px;
+}
+#slider-17 I {
+  text-align: right;
+  color: #ffffff;
+}
+#slider-17 P {
+  text-align: right;
+  color: #ffffff;
+}
+#social-buttons2-s .mbr-header__text {
+  text-align: left;
+  color: #41a85f;
+  font-family: 'Roboto Condensed', sans-serif;
 }

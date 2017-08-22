@@ -1,15 +1,14 @@
 {
   "settings": {
     "name": "99 scout troop Testing 01",
-    "currentPage": "ChiefScoutsAward.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {},
-      "additionalSetColors": []
+      "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 65,
     "versionPublish": "4.1.6",
     "path": "file:///C:/Users/manlong/Desktop/after%20process/Website",
     "favicon": "@PROJECT_PATH@/assets/images/logo-of-scout-troop-128x128.png",
@@ -17,260 +16,6 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Home.html": {
-      "settings": {
-        "main": true,
-        "title": "99th Hong Kong Group Scout Troop, Scout Association of Hong Kong",
-        "meta_descr": "Home",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "24px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#41a85f"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3b9957"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-6",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#41a85f",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
-            },
-            "fontColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20of%20scout%20troop-128x128.jpg",
-              "class": "",
-              "height": 128,
-              "alt": "",
-              "link": "Home.html",
-              "title": "99th Hong Kong Group Scout Troop",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "font-size": "60px",
-              "color": "#1abc9c",
-              "text-align": "center"
-            },
-            "I": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#1a7d37",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header4-7",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-homecover-2000x1500.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-k",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#41a85f",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "text-align": "left",
-              "font-size": "48px"
-            },
-            "I": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "right",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-2000x1332.jpg",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "<i><br></i><br><i><br></i><br><i>Scouting </i><br><i>With </i><i>Passion</i>",
-                "showText": false,
-                "text": "x",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x1328.jpg",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "<i style=\"letter-spacing: 2px;\"><br></i><br><i style=\"letter-spacing: 2px;\"><br></i><br><i style=\"letter-spacing: 2px;\">Scouting&nbsp;</i><br><i>With Passion</i>",
-                "showText": false,
-                "text": "xx",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\" \" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/coverpic-1-2000x1328.jpg",
-                "contentAlign": "center",
-                "overlay": false,
-                "showTitle": true,
-                "title": "<i><br></i><br><i>Scouting <br>With&nbsp;Passion</i>",
-                "showText": false,
-                "text": "xxx",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x1125.jpg",
-                "contentAlign": "right",
-                "overlay": false,
-                "showTitle": true,
-                "title": "<p><i><br></i>&nbsp;</p><br><p><br><i>Scouting <br>With&nbsp;Passion</i></p>",
-                "showText": false,
-                "text": "xxx",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              }
-            ]
-          },
-          "_anchor": "slider-17",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "text-align": "left",
-              "color": "#41a85f",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          },
-          "_anchor": "social-buttons2-s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Follow &amp; Share Our Facebook Page",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
-        }
-      ]
-    },
     "AboutUs.html": {
       "settings": {
         "title": "99th Hong Kong Group Scout Troop, Scout Association of Hong Kong",
@@ -435,8 +180,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -559,8 +304,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -1016,8 +761,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -1232,8 +977,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -1310,7 +1055,7 @@
               {
                 "caption": "Island Scout Trail Walk 2017",
                 "thumb": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x112521.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x1125.jpg",
                 "active": false
               },
               {
@@ -1346,7 +1091,7 @@
               {
                 "caption": "PL Training Camp 2016",
                 "thumb": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x133222.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-3-2000x133212.jpg",
                 "active": false
               },
               {
@@ -1406,7 +1151,7 @@
               {
                 "caption": "Park Orienteering 2016",
                 "thumb": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x1328-800x531.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x132823.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x1328.jpg",
                 "active": true
               }
             ]
@@ -1442,32 +1187,6 @@
           },
           "text": "Visit Our FB Page For More Photo Updates",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "social-buttons2-15",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#41a85f",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "For Old Photo",
-          "icons": "    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"http://www.99hkg.org/scout/Photo/past/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -1605,8 +1324,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -2032,8 +1751,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -2191,8 +1910,8 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -2404,6 +2123,260 @@
             "overlayOpacity": "0.4"
           },
           "header": "Useful Information / Link"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "99th Hong Kong Group Scout Troop, Scout Association of Hong Kong",
+        "meta_descr": "index",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#41a85f"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#3b9957"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-6",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#41a85f",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo%20of%20scout%20troop-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "Home.html",
+              "title": "99th Hong Kong Group Scout Troop",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">99th Hong Kong Group Scout Troop</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutUs.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScoutLeaders.html\">Scout Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChiefScoutsAward.html\">Awards / Honours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TrainingScheme.html\" aria-expanded=\"false\">Training Scheme</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UsefulInfro.html\">Useful Information</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUs.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "60px",
+              "color": "#1abc9c",
+              "text-align": "center"
+            },
+            "I": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#1a7d37",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header4-7",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-homecover-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#41a85f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<b>Copyright @ 99th Hong Kong Group. All rights reserved.</b>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            "I": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pl-training-camp-2016-2000x1332.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<i><br></i><br><i><br></i><br><i>Scouting </i><br><i>With </i><i>Passion</i>",
+                "showText": false,
+                "text": "x",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/12068917-708039149326870-1322339118458466184-o-2000x132813.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<i style=\"letter-spacing: 2px;\"><br></i><br><i style=\"letter-spacing: 2px;\"><br></i><br><i style=\"letter-spacing: 2px;\">Scouting&nbsp;</i><br><i>With Passion</i>",
+                "showText": false,
+                "text": "xx",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\" \" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/coverpic-1-2000x1328.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "<i><br></i><br><i>Scouting <br>With&nbsp;Passion</i>",
+                "showText": false,
+                "text": "xxx",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/trail-walk-2017-2000x112514.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": true,
+                "title": "<p><i><br></i>&nbsp;</p><br><p><br><i>Scouting <br>With&nbsp;Passion</i></p>",
+                "showText": false,
+                "text": "xxx",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              }
+            ]
+          },
+          "_anchor": "slider-17",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "left",
+              "color": "#41a85f",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "social-buttons2-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow &amp; Share Our Facebook Page",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/99hkgst/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
         }
       ]
     }
